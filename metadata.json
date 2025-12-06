@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Financial Syndicate",
+  "description": "A multi-agent financial analysis platform using Gemini models. It simulates FOMC research and specific ticker analysis, synthesized by a reasoning model for investment recommendations.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,18 @@
+services:
+  financial-syndicate:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "47823:47823"
+    environment:
+      - NODE_ENV=production
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+    restart: unless-stopped
+    container_name: financial-syndicate-app
+    networks:
+      - financial-network
+
+networks:
+  financial-network:
+    driver: bridge
