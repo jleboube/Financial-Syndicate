@@ -1,4 +1,22 @@
+<div align="center">
+
 # Financial Syndicate
+
+[![Docker](https://img.shields.io/badge/Docker-Compose-blue.svg)](https://docs.docker.com/compose/)
+[![GitHub stars](https://img.shields.io/github/stars/jleboube/Financial-Syndicate?style=social)](https://github.com/jleboube/Financial-Syndicate/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/jleboube/Financial-Syndicate?style=social)](https://github.com/jleboube/Financial-Syndicate/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/jleboube/Financial-Syndicate)](https://github.com/jleboube/Financial-Syndicate/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/jleboube/Financial-Syndicate)](https://github.com/jleboube/Financial-Syndicate/pulls)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CCBY--NC--SA4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/muscl3n3rd)
+
+**WARNING: Trading stocks and crypto is very risky. This app is not intended for anyone that likes their money. This hasn't been backtested. This was literally one-shotted using Claude and I transferred $250 into the account and let the "Crypto Hunter" agent loose. Do not use this app if you want to save your money.**
+
+[Features](#features) • [Local Deployment](#local-deployment) • [Architecture](#architecture)
+
+</div>
+
 
 A multi-agent financial analysis application powered by Google Gemini AI that provides comprehensive market insights through specialized AI agents.
 
