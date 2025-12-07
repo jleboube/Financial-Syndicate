@@ -13,7 +13,7 @@
 
 **WARNING: Trading stocks and crypto is very risky. This app is not intended for anyone that likes their money. This hasn't been backtested. This was literally one-shotted using Claude and I transferred $250 into the account and let the "Crypto Hunter" agent loose. Do not use this app if you want to save your money.**
 
-[Features](#features) • [Local Deployment](#local-deployment) • [Architecture](#architecture)
+[Screenshots](#screenshots) • [Features](#features) • [Local Deployment](#local-deployment) • [Architecture](#architecture)
 
 </div>
 
