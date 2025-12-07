@@ -17,8 +17,14 @@
 
 </div>
 
-
 A multi-agent financial analysis application powered by Google Gemini AI that provides comprehensive market insights through specialized AI agents.
+
+
+## Screenshots
+
+![Alt text](docs/mf1.png "Specific Ticker Lookup")
+
+![Alt text](docs/mf2.png "Broad Financial Search")
 
 ## Features
 
